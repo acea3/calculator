@@ -1,0 +1,33 @@
+.base {
+  height: 20rem;
+  width: 15rem;
+  background-color: #1b1b1b;
+  border-radius: 5%;
+  border-color: #323232;
+  border-width: 0.5rem;
+  border-style: solid;
+}
+
+.result {
+    color: white;
+    margin: 1rem;
+    display: flex;
+    justify-content: right;
+    padding: 1rem;
+}
+
+.clear {
+    margin-left: 1rem;
+    margin-right: 6.2rem;
+    padding: 10px 15px;
+}
+
+.divide {
+    margin-left: 1rem;
+    padding: 10px 15px;
+}
+
+.second-row {
+    margin-left: 1rem;
+    padding: 10px 15px;
+}
